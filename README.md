@@ -1,9 +1,8 @@
-# \[Group name\]
+# \[Norway\]
 
 **Group members:**
-- A
-- B
-- C
+- Mie Hustad
+- Sivert Dahle
 
 This repository contains  
 1. Inaugural project. 
